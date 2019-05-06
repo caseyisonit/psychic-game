@@ -44,7 +44,7 @@ document.onkeyup = function (event) {
                 alert("Choose an unused letter to continue playing!")
             }
         } else {
-            alert("Choose a letter to play!");
+            alert("Guess a letter to play!");
         }
     }
 }
